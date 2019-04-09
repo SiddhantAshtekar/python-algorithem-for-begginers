@@ -1,0 +1,6 @@
+name,age=input("Eter your name and age").split()
+print(name)
+print(age)
+name,age=input("Enter the name and age by comma seperated").split(",")
+print(name)
+print(age)

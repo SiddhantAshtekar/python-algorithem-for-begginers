@@ -1,0 +1,2 @@
+user_name,char=input("Enter your name and any one character from your name for counting that character is how many time is reapeted in your name by comma seperated").split(",")
+print("lenght of your name  {}\nand count of character entered  {}".format(len(user_name),user_name.count(char))) 

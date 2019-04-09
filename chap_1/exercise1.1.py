@@ -1,0 +1,1 @@
+print("this is \\\\ double backslash\nthese are /\\/\\/\\/\\/\\ mountains\nhe is \t awesome\n\\\"\\n\\t\\\'")
